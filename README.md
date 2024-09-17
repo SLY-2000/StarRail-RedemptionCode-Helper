@@ -1,5 +1,6 @@
 # StarRail-RedemptionCode-Helper
 星穹铁道自动使用兑换码
+
 1、将要兑换的码输入到【redemptionCode.txt】内，一行一个，例如下面
 BSM5G6T2UD9L
 9T45Z7QC3HUC
